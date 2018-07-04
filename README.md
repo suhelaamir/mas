@@ -36,7 +36,7 @@ Application folder Path: EvolentContactList\ECL.Web\App_Data
 How to run the application.
 1) Download the application folder and restore the database bak file at your local machine.
 2) Change the connection string as per SQL server at your machine.
-3) Run the MVC application ECL.Web. you can host the ECL.Web application in IIS or run directly from visual studio 2015.
+3) Run the MVC application ECL.Web. you can host the ECL.Web application in IIS or run directly from visual studio 2015
  
 
 
