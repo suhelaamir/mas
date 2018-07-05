@@ -28,10 +28,9 @@ Here we are displaying as “InActive” action for the Active contact to make i
 And for Inactive contact we are displaying the “Active” action to make the contact as active.  
 
 Database Info.
-We have copied and paste the database backup(bak file) at below location in the same application folder. 
+I have copied and paste the database backup(bak file) at below location in the same application folder. 
 Please see below database bak file path.
-Root folder path: EvolentContactList\DatabaseBAK_File
-Application folder Path: EvolentContactList\ECL.Web\App_Data
+Root folder path: DatabaseBAK_File
 
 How to run the application.
 1) Download the application folder “EvolentContactList” and unzip using 7-Zip(7-zip exe is attached in repository, need to install it) 
