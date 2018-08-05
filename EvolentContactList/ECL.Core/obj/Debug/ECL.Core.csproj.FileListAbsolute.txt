@@ -1,0 +1,9 @@
+E:\Dev\MVCApplications\EvolnetContactList\ECL.Core\bin\Debug\ECL.Core.dll
+E:\Dev\MVCApplications\EvolnetContactList\ECL.Core\bin\Debug\ECL.Core.pdb
+E:\Dev\MVCApplications\EvolnetContactList\ECL.Core\obj\Debug\ECL.Core.csprojResolveAssemblyReference.cache
+E:\Dev\MVCApplications\EvolnetContactList\ECL.Core\obj\Debug\ECL.Core.dll
+E:\Dev\MVCApplications\EvolnetContactList\ECL.Core\obj\Debug\ECL.Core.pdb
+E:\Dev\MVCApplications\EvolentContactList\ECL.Core\bin\Debug\ECL.Core.dll
+E:\Dev\MVCApplications\EvolentContactList\ECL.Core\bin\Debug\ECL.Core.pdb
+E:\Dev\MVCApplications\EvolentContactList\ECL.Core\obj\Debug\ECL.Core.dll
+E:\Dev\MVCApplications\EvolentContactList\ECL.Core\obj\Debug\ECL.Core.pdb

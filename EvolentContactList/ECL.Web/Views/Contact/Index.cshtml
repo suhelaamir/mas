@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ECL.Web.Models.ContactModel>
+
+@{
+    ViewBag.Title = "Contact List";
+}
+
+<h2>Contact List</h2>
+
+<p>
+    @Html.ActionLink("Create Contact", "CreateEditContact")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+        @Html.DisplayNameFor(model => model.ID)
+    </th>
+        <th>Actions</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+        @Html.DisplayFor(modelItem => item.ID)
+    </td>
+        <td>
+            @Html.ActionLink("Edit", "CreateEditContact", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+            @if (item.Status == true)
+            {@Html.ActionLink("Inactive", "DoActiveOrInactiveContact", new { id = item.ID, status = false })}
+            else
+            {@Html.ActionLink("Active", "DoActiveOrInactiveContact", new { id = item.ID, status = true })}
+            
+        </td>
+    </tr>
+}
+
+</table>

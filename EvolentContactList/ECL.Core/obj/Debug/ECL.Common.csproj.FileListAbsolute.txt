@@ -1,0 +1,10 @@
+E:\Dev\MVCApplications\EvolentContactList\ECL.Core\bin\Debug\ECL.Common.dll
+E:\Dev\MVCApplications\EvolentContactList\ECL.Core\bin\Debug\ECL.Common.pdb
+E:\Dev\MVCApplications\EvolentContactList\ECL.Core\obj\Debug\ECL.Common.dll
+E:\Dev\MVCApplications\EvolentContactList\ECL.Core\obj\Debug\ECL.Common.pdb
+E:\Dev\MVCApplications\EvolentContactList\ECL.Core\obj\Debug\ECL.Common.csprojResolveAssemblyReference.cache
+E:\Dev\MVCApplications_AskedInInterview\Backup\EvolentContactList\ECL.Core\bin\Debug\ECL.Common.dll
+E:\Dev\MVCApplications_AskedInInterview\Backup\EvolentContactList\ECL.Core\bin\Debug\ECL.Common.pdb
+E:\Dev\MVCApplications_AskedInInterview\Backup\EvolentContactList\ECL.Core\obj\Debug\ECL.Common.csprojResolveAssemblyReference.cache
+E:\Dev\MVCApplications_AskedInInterview\Backup\EvolentContactList\ECL.Core\obj\Debug\ECL.Common.dll
+E:\Dev\MVCApplications_AskedInInterview\Backup\EvolentContactList\ECL.Core\obj\Debug\ECL.Common.pdb
