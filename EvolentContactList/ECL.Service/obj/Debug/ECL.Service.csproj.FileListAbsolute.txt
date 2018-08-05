@@ -20,3 +20,14 @@ E:\Dev\MVCApplications_AskedInInterview\Backup\EvolentContactList\ECL.Service\bi
 E:\Dev\MVCApplications_AskedInInterview\Backup\EvolentContactList\ECL.Service\obj\Debug\ECL.Service.csprojResolveAssemblyReference.cache
 E:\Dev\MVCApplications_AskedInInterview\Backup\EvolentContactList\ECL.Service\obj\Debug\ECL.Service.dll
 E:\Dev\MVCApplications_AskedInInterview\Backup\EvolentContactList\ECL.Service\obj\Debug\ECL.Service.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Debug\ECL.Service.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Debug\ECL.Service.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Debug\ECL.Common.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Debug\ECL.DataAccess.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Debug\EntityFramework.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Debug\ECL.Common.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Debug\ECL.DataAccess.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Debug\EntityFramework.xml
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\obj\Debug\ECL.Service.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\obj\Debug\ECL.Service.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\obj\Debug\ECL.Service.pdb

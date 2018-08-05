@@ -1,0 +1,4 @@
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Core\bin\Release\ECL.Common.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Core\bin\Release\ECL.Common.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Core\obj\Release\ECL.Common.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Core\obj\Release\ECL.Common.pdb

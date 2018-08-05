@@ -11,9 +11,11 @@ using System.Threading.Tasks;
 using System.Web;
 using Newtonsoft.Json;
 using System.Web.Mvc;
+using System.Web.Cors;
 
 namespace ECL.Web.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class ContactController : Controller
     {
         private IContactService _contactService;
@@ -23,7 +25,7 @@ namespace ECL.Web.Controllers
         }
 
         //Hosted web API REST Service base url  
-        string Baseurl = "http://localhost:4333";
+        string Baseurl = "http://localhost/ApiService";
         public async Task<ActionResult> ContactDetails()
         {
             List<ContactModel> contactInfo = new List<ContactModel>();

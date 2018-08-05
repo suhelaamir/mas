@@ -1,0 +1,12 @@
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\bin\Release\ECL.DataAccess.dll.config
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\bin\Release\ECL.DataAccess.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\bin\Release\ECL.DataAccess.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\bin\Release\ECL.Common.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\bin\Release\EntityFramework.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\bin\Release\ECL.Common.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\bin\Release\EntityFramework.xml
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\obj\Release\ECL.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\obj\Release\ECL.DataAccess.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Data\obj\Release\ECL.DataAccess.pdb

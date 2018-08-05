@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Release\ECL.Service.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Release\ECL.Service.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Release\ECL.Common.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Release\ECL.DataAccess.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Release\EntityFramework.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Release\ECL.Common.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Release\ECL.DataAccess.pdb
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\bin\Release\EntityFramework.xml
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\obj\Release\ECL.Service.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\obj\Release\ECL.Service.dll
+C:\Users\TOSHIBA\Source\Repos\mas\EvolentContactList\ECL.Service\obj\Release\ECL.Service.pdb
