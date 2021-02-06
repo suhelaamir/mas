@@ -6,6 +6,7 @@ namespace ECL.Service
 {
     public class ContactService : IContactService
     {
+        //services
         private IRepository<Contact> _contactRepository;
         public ContactService(IRepository<Contact> contactRepository)
         {
