@@ -1,0 +1,50 @@
+﻿@using MultipleModelToTheView.Models
+@model IEnumerable<EmployeeData>
+@{
+    ViewBag.Title = "GetEmployeeList";
+}
+
+<h2>GetEmployeeList</h2>
+<table>
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(e => e.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.EmployeeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.Salary)
+        </th>
+    </tr>
+</thead>
+    <tbody>
+        @foreach (var emp in (IEnumerable<EmployeeData>)TempData["EMP"])
+        {
+        <tr>
+            <td>
+                @emp.Id
+            </td>
+            <td>
+                @emp.EmployeeName
+            </td>
+            <td>
+                @emp.Age
+            </td>
+            <td>
+                @emp.Salary
+            </td>
+        </tr>
+        }
+        <tr>
+            <td colspan="4">
+                @Html.ActionLink("Home", "Index", TempData["EMP"], null)
+            </td>
+        </tr>
+    </tbody>
+</table>
+

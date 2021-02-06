@@ -1,0 +1,70 @@
+﻿@using MultipleModelToTheView.Models
+@model dynamic
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>@ViewBag.message</h1>
+    <p>Teacher List</p>
+    @Html.AntiForgeryToken()
+    <table style="border-collapse: collapse; border: solid 1px #e8eef4;">
+        <tr>
+            <td colspan="=3">
+                @ViewBag.name
+            </td>
+        </tr>
+        @foreach (var emp in (IEnumerable<EmployeeData>)TempData["EMP"])
+        {
+            <tr>
+                <td>
+                    @emp.Id
+                </td>
+                <td>
+                    @emp.EmployeeName
+                </td>
+                <td>
+                    @emp.Age
+                </td>
+                <td>
+                    @emp.Salary
+                </td>
+            </tr>
+        }
+        <tr>
+            <td>Id</td>
+            <td>Code</td>
+            <td>Name</td>
+        </tr>
+        @foreach(Teacher teacher in Model.Teachers )
+        {
+        <tr>
+            <td>@teacher.TeacherId</td>
+            <td>@teacher.Code</td>
+            <td>
+                @teacher.Name
+            </td>
+        </tr>
+        }
+    </table>
+    <br />
+    <table style="border-collapse: collapse; border: solid 1px #e8eef4;">
+        <tr>
+            <td>Id</td>
+            <td>Code</td>
+            <td>Name</td>
+            <td>EnrollmentNo</td>
+        </tr>
+        @foreach (Student student in Model.Students)
+        {
+            <tr>
+                <td>@student.StudentId</td>
+                <td>@student.Code</td>
+                <td>@student.Name</td>
+                <td>@student.EnrollmentNo</td>
+            </tr>
+        }
+    </table>
+    
+</div>
+
