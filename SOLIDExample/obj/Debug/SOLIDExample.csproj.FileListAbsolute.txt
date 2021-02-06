@@ -1,0 +1,8 @@
+c:\users\stathe\documents\visual studio 2015\Projects\SOLIDExample\bin\Debug\SOLIDExample.exe.config
+c:\users\stathe\documents\visual studio 2015\Projects\SOLIDExample\bin\Debug\SOLIDExample.exe
+c:\users\stathe\documents\visual studio 2015\Projects\SOLIDExample\bin\Debug\SOLIDExample.pdb
+c:\users\stathe\documents\visual studio 2015\Projects\SOLIDExample\bin\Debug\Aspose.Cells.dll
+c:\users\stathe\documents\visual studio 2015\Projects\SOLIDExample\bin\Debug\ExcelEngine.dll
+c:\users\stathe\documents\visual studio 2015\Projects\SOLIDExample\obj\Debug\SOLIDExample.csprojResolveAssemblyReference.cache
+c:\users\stathe\documents\visual studio 2015\Projects\SOLIDExample\obj\Debug\SOLIDExample.exe
+c:\users\stathe\documents\visual studio 2015\Projects\SOLIDExample\obj\Debug\SOLIDExample.pdb
