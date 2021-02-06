@@ -1,0 +1,13 @@
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\bin\Debug\UnityContainer.exe.config
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\bin\Debug\UnityContainer.exe
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\bin\Debug\UnityContainer.pdb
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\bin\Debug\Unity.Abstractions.dll
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\bin\Debug\Unity.Container.dll
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\bin\Debug\Unity.Abstractions.pdb
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\bin\Debug\Unity.Container.pdb
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\obj\Debug\UnityContainer.csprojAssemblyReference.cache
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\obj\Debug\UnityContainer.csproj.CopyComplete
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\obj\Debug\UnityContainer.exe
+E:\Dev\InterviewPractice\UnityContainer\UnityContainer\obj\Debug\UnityContainer.pdb
