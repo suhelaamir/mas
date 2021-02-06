@@ -1,0 +1,15 @@
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\SynechronAskedQuestion.exe.config
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\obj\Debug\SynechronAskedQuestion.exe
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\obj\Debug\SynechronAskedQuestion.pdb
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\SynechronAskedQuestion.exe
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\SynechronAskedQuestion.pdb
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\obj\Debug\SynechronAskedQuestion.csprojAssemblyReference.cache
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\Newtonsoft.Json.dll
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\System.Net.Http.Formatting.dll
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\System.Web.Http.dll
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\System.Web.Http.WebHost.dll
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\Newtonsoft.Json.xml
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\System.Net.Http.Formatting.xml
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\System.Web.Http.xml
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\bin\Debug\System.Web.Http.WebHost.xml
+E:\Dev\MVCApplications_AskedInInterview\SynechronAskedQuestion\SynechronAskedQuestion\obj\Debug\SynechronAskedQuestion.csproj.CopyComplete
