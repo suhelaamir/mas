@@ -1,0 +1,15 @@
+E:\Dev\BusinessEntity\bin\Debug\netcoreapp3.1\BusinessEntity.deps.json
+E:\Dev\BusinessEntity\bin\Debug\netcoreapp3.1\BusinessEntity.dll
+E:\Dev\BusinessEntity\bin\Debug\netcoreapp3.1\BusinessEntity.pdb
+E:\Dev\BusinessEntity\obj\Debug\netcoreapp3.1\BusinessEntity.AssemblyInfoInputs.cache
+E:\Dev\BusinessEntity\obj\Debug\netcoreapp3.1\BusinessEntity.AssemblyInfo.cs
+E:\Dev\BusinessEntity\obj\Debug\netcoreapp3.1\BusinessEntity.dll
+E:\Dev\BusinessEntity\obj\Debug\netcoreapp3.1\BusinessEntity.pdb
+E:\Dev\BusinessEntity\obj\Debug\netcoreapp3.1\BusinessEntity.csprojAssemblyReference.cache
+E:\Dev\ProductAPI\BusinessEntity\bin\Debug\netcoreapp3.1\BusinessEntity.deps.json
+E:\Dev\ProductAPI\BusinessEntity\bin\Debug\netcoreapp3.1\BusinessEntity.dll
+E:\Dev\ProductAPI\BusinessEntity\bin\Debug\netcoreapp3.1\BusinessEntity.pdb
+E:\Dev\ProductAPI\BusinessEntity\obj\Debug\netcoreapp3.1\BusinessEntity.AssemblyInfoInputs.cache
+E:\Dev\ProductAPI\BusinessEntity\obj\Debug\netcoreapp3.1\BusinessEntity.AssemblyInfo.cs
+E:\Dev\ProductAPI\BusinessEntity\obj\Debug\netcoreapp3.1\BusinessEntity.dll
+E:\Dev\ProductAPI\BusinessEntity\obj\Debug\netcoreapp3.1\BusinessEntity.pdb

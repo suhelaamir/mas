@@ -1,0 +1,43 @@
+﻿IF ( EXISTS(SELECT *
+            FROM   sys.objects
+            WHERE  [object_id] = Object_id(N'[dbo].[InsertCustomers]')
+                   AND [type] = 'P') )
+  DROP PROCEDURE [dbo].[InsertCustomers]
+
+GO
+CREATE proc [dbo].[InsertCustomers]
+@Name nvarchar(500),
+@CreatedBy int,
+@MobileNumber nvarchar(500),
+@EmailId nvarchar(500),
+@Address nvarchar(max),
+@SmsMessage nvarchar(500)
+
+As
+if not exists (Select * From Customers Where EmailId=@EmailId and IsActive=1)
+begin
+Insert into Customers
+(
+[Name] 
+,CreatedBy 
+,MobileNumber
+,EmailId 
+,[Address] 
+,SmsMessage
+) values 
+(
+@Name
+,@CreatedBy 
+,@MobileNumber
+,@EmailId 
+,@Address 
+,@SmsMessage
+
+)
+Select ident_current('Customers')
+end
+else
+begin
+Select -1
+end
+GO

@@ -1,0 +1,17 @@
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\Repositories.deps.json
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\Repositories.dll
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\Repositories.pdb
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\BusinessEntity.dll
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\BusinessEntity.pdb
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Dev\ProductAPI\Repositories\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Dev\ProductAPI\Repositories\obj\Debug\netcoreapp2.2\Repositories.csprojAssemblyReference.cache
+E:\Dev\ProductAPI\Repositories\obj\Debug\netcoreapp2.2\Repositories.AssemblyInfoInputs.cache
+E:\Dev\ProductAPI\Repositories\obj\Debug\netcoreapp2.2\Repositories.AssemblyInfo.cs
+E:\Dev\ProductAPI\Repositories\obj\Debug\netcoreapp2.2\Repositories.csproj.CopyComplete
+E:\Dev\ProductAPI\Repositories\obj\Debug\netcoreapp2.2\Repositories.dll
+E:\Dev\ProductAPI\Repositories\obj\Debug\netcoreapp2.2\Repositories.pdb

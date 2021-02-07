@@ -1,0 +1,8 @@
+E:\Dev\ProductAPI\BusinessEntity\bin\Debug\netcoreapp2.2\BusinessEntity.deps.json
+E:\Dev\ProductAPI\BusinessEntity\bin\Debug\netcoreapp2.2\BusinessEntity.dll
+E:\Dev\ProductAPI\BusinessEntity\bin\Debug\netcoreapp2.2\BusinessEntity.pdb
+E:\Dev\ProductAPI\BusinessEntity\obj\Debug\netcoreapp2.2\BusinessEntity.AssemblyInfoInputs.cache
+E:\Dev\ProductAPI\BusinessEntity\obj\Debug\netcoreapp2.2\BusinessEntity.AssemblyInfo.cs
+E:\Dev\ProductAPI\BusinessEntity\obj\Debug\netcoreapp2.2\BusinessEntity.dll
+E:\Dev\ProductAPI\BusinessEntity\obj\Debug\netcoreapp2.2\BusinessEntity.pdb
+E:\Dev\ProductAPI\BusinessEntity\obj\Debug\netcoreapp2.2\BusinessEntity.csprojAssemblyReference.cache

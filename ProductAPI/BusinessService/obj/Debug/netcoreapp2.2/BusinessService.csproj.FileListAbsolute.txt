@@ -1,0 +1,17 @@
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\BusinessService.deps.json
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\BusinessService.dll
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\BusinessService.pdb
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\BusinessEntity.dll
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\Repositories.dll
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\BusinessEntity.pdb
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\Repositories.pdb
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+E:\Dev\ProductAPI\BusinessService\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Dev\ProductAPI\BusinessService\obj\Debug\netcoreapp2.2\BusinessService.csprojAssemblyReference.cache
+E:\Dev\ProductAPI\BusinessService\obj\Debug\netcoreapp2.2\BusinessService.AssemblyInfoInputs.cache
+E:\Dev\ProductAPI\BusinessService\obj\Debug\netcoreapp2.2\BusinessService.AssemblyInfo.cs
+E:\Dev\ProductAPI\BusinessService\obj\Debug\netcoreapp2.2\BusinessService.csproj.CopyComplete
+E:\Dev\ProductAPI\BusinessService\obj\Debug\netcoreapp2.2\BusinessService.dll
+E:\Dev\ProductAPI\BusinessService\obj\Debug\netcoreapp2.2\BusinessService.pdb
