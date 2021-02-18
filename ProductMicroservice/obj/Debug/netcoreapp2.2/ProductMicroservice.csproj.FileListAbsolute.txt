@@ -1,0 +1,16 @@
+E:\Dev\ProductMicroservice\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Dev\ProductMicroservice\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Dev\ProductMicroservice\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Dev\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.AssemblyInfoInputs.cache
+E:\Dev\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.AssemblyInfo.cs
+E:\Dev\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.deps.json
+E:\Dev\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.runtimeconfig.json
+E:\Dev\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.runtimeconfig.dev.json
+E:\Dev\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.dll
+E:\Dev\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.csprojAssemblyReference.cache
+E:\Dev\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorAssemblyInfo.cache
+E:\Dev\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorAssemblyInfo.cs
+E:\Dev\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorTargetAssemblyInfo.cache
+E:\Dev\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.pdb
+E:\Dev\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.dll
+E:\Dev\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.pdb
